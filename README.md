@@ -1,17 +1,23 @@
 🩺 Doctor Appointment Booking System
-A modern web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to register, log in, book appointments with doctors, and manage their profiles.
+A modern web application built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to register, log in, book appointments with doctors, and manage their profiles efficiently.
 
 🚀 Features
 🧑‍⚕️ Doctor and Patient Authentication (Register/Login)
-📅 Book and Manage Appointments
-📋 View Doctor Availability
-👤 User Dashboard
-🔐 Secure Login using JWT
-📧 Email Confirmation (Optional/Future Scope)
-🔧 Admin Panel (Future Scope)
-🛠️ Tech Stack
 
-**Technology	Role**
+📅 Book and Manage Appointments
+
+📋 View Doctor Availability
+
+👤 User Dashboard
+
+🔐 Secure Login using JWT
+
+📧 Email Confirmation (Optional / Future Scope)
+
+🔧 Admin Panel (Future Scope)
+
+🛠️ Tech Stack
+Technology	Role
 MongoDB	Database
 Express.js	Backend Framework
 React.js	Frontend Library
@@ -21,7 +27,24 @@ Axios	API Requests
 React Router	Client-Side Routing
 Tailwind CSS / CSS	Styling
 📁 Folder Structure
-Doctor_Appointment/ ├── client/ # React Frontend │ ├── public/ │ └── src/ │ ├── components/ │ ├── pages/ │ ├── App.js │ └── index.js ├── server/ # Node/Express Backend │ ├── controllers/ │ ├── models/ │ ├── routes/ │ ├── config/ │ └── server.js ├── .gitignore ├── package.json └── README.md
+text
+Doctor_Appointment/
+├── client/              # React Frontend
+│   ├── public/
+│   └── src/
+│       ├── components/
+│       ├── pages/
+│       ├── App.js
+│       └── index.js
+├── server/              # Node/Express Backend
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── config/
+│   └── server.js
+├── .gitignore
+├── package.json
+└── README.md
 
 🧑‍💻 Getting Started
 1. Clone the repository
