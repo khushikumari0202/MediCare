@@ -1,7 +1,3 @@
-Here is a polished **README.md** you can use (or adapt) for the **MediCare — Doctor Appointment Booking System** repository:
-
----
-
 
 MediCare — Doctor Appointment Booking System
 
