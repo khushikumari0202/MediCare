@@ -10,7 +10,8 @@ A modern web application built with the MERN stack (MongoDB, Express.js, React.j
 📧 Email Confirmation (Optional/Future Scope)
 🔧 Admin Panel (Future Scope)
 🛠️ Tech Stack
-Technology	Role
+
+**Technology	Role**
 MongoDB	Database
 Express.js	Backend Framework
 React.js	Frontend Library
@@ -24,16 +25,22 @@ Doctor_Appointment/ ├── client/ # React Frontend │ ├── public/ │
 
 🧑‍💻 Getting Started
 1. Clone the repository
+```
 git clone https://github.com/khushikumari0202/Doctor_Appointment.git
 cd Doctor_Appointment
-2. Setup the backend
+```
+3. Setup the backend
+```
 cd backend
 npm install
 npm run server
-3. Setup the frontend
+```
+4. Setup the frontend
+```
 cd frontend
 npm install
 npm run dev
+```
 The client will run on http://localhost:3000 and the server on http://localhost:5000.
 
 🙋‍♀️ Author
