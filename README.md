@@ -55,14 +55,15 @@ Doctor_Appointment/
 ### Installation & Running Locally
 
 1. **Clone the repository**
-   ```bash
+   ```
    git clone https://github.com/khushikumari0202/MediCare.git
    cd MediCare
-````
+   ```
+
 
 2. **Setup the backend**
 
-   ```bash
+   ```
    cd server
    npm install
    npm run dev   # or npm start
