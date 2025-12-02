@@ -2,7 +2,7 @@
 ## MediCare — Doctor Appointment Booking System
 
 A modern web application built with the **MERN** stack (MongoDB, Express, React, Node.js) that allows users to register, log in, book appointments with doctors, and manage their profiles.
-
+Live Link: [https://medi-care-beta-three.vercel.app/]
 ## 💡 Features
 
 - User registration & login (doctor/patient authentication)  
